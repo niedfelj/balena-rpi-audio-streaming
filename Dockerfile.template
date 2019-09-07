@@ -1,7 +1,7 @@
 # base-image for node on any machine using a template variable,
 # see more about dockerfile templates here: https://www.balena.io/docs/learn/develop/dockerfile/ 
 # and about balena base images here: https://www.balena.io/docs/reference/base-images/base-images/ 
-FROM balenalib/%%BALENA-MACHINE-NAME%%-ubuntu:build
+FROM balenalib/%%BALENA_MACHINE_NAME%%-ubuntu:build
 
 
 # Defines our working directory in container
