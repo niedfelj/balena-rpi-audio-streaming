@@ -1,5 +1,4 @@
-# Balena RPi3 Streaming
-## (shoutcast/icecast server for a USB input device)
+## Balena RPi3 Streaming (shoutcast/icecast server for a USB input device)
 
 You'll need a Raspberry Pi and preferably a STEREO (most are mono) USB input device like this:
 
